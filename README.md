@@ -18,7 +18,7 @@
 [Salma Hamdy](https://github.com/salma39), [Salma Hamed](https://github.com/Salma-Hamed), [Omar Nasser](https://github.com/omarelshamy12), [Omar Hassan](https://github.com/omarrhassan1).
 
 ## Installation Instructions
-
+sudo pip3 install -r requirements.txt
 
 ## User Guide
 To open the user guide, click [HERE]().
