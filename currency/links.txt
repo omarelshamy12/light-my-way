@@ -1,0 +1,2 @@
+tflite model:
+https://drive.google.com/file/d/1cH7nraPzd3jbfdDuoX8e7YaFIX-DQMUv/view?usp=sharing
