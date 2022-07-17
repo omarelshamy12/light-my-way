@@ -14,19 +14,33 @@
 
 ## Technologies Used
 python
+
 yolov4
+
 tesseract-ocr
+
 picamera
+
 opencv
+
 numpy
+
 gtts
+
 SpeechRecognition
+
 tensorflow
+
 tflite
+
 pdfplumber
+
 doc2txt
+
 shutill
+
 python-vlc
+
 
 
 ## Contributors
