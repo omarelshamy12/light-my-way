@@ -1,1 +1,5 @@
+kaggle link:
+https://www.kaggle.com/datasets/egyptiris/egyptian-currency
+drive link for dataset with yolo text annotations:
+https://drive.google.com/drive/folders/1-Dbi7JCTx4GVZCsNoi8wxB3_2ouneMLN?usp=sharing
 
