@@ -13,34 +13,10 @@
 
 
 ## Technologies Used
-python
-
-yolov4
-
-tesseract-ocr
-
-picamera
-
-opencv
-
-numpy
-
-gtts
-
-SpeechRecognition
-
-tensorflow
-
-tflite
-
-pdfplumber
-
-doc2txt
-
-shutill
-
-python-vlc
-
+- Python Programming Language
+- yolov4 Framework
+- Tensorflow Framework
+- TensorflowLite Framework
 
 
 ## Contributors
