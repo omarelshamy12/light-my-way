@@ -1,0 +1,12 @@
+tesseract-ocr== 3.05.02
+picamera==1.13
+opencv-python==4.6.0
+numpy== 1.23.1
+gtts== 2.2.4
+SpeechRecognition== 3.8.1
+tensorflow==2.3.0
+tflite==2.3.0
+pdfplumber== 0.7.1
+doc2txt==0.0.7
+shutill==3.5
+python-vlc==3.0.16120
