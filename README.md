@@ -15,7 +15,7 @@
 ## Technologies Used
 
 ## Contributors
-[Salma Hamdy](https://github.com/), [Salma Hamed](https://github.com/Salma-Hamed), [Omar Nasser](https://github.com/omarelshamy12), [Omar Hassan](https://github.com/).
+[Salma Hamdy](https://github.com/salma39), [Salma Hamed](https://github.com/Salma-Hamed), [Omar Nasser](https://github.com/omarelshamy12), [Omar Hassan](https://github.com/omarrhassan1).
 
 ## Installation Instructions
 
