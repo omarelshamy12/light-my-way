@@ -4,8 +4,8 @@
 
 ## Table of Contents
 - Introduction
-- Technologies Used
 - Hardware Components
+- Technologies Used
 - Contributors
 - Installation
 - User Guide
@@ -23,20 +23,21 @@ Light My Way is an aasistant glasses designed for people with sight disabilities
   - USB Reading
   - Listening to Holy Quran.
 
-## Technologies Used
-- Python Programming Language
-- yolov4 Framework
-- Tensorflow Framework
-- TensorflowLite Framework
-
 ## Hardware Components
 - Raspberry pi 4 Computer Model B (8GB RAM)
 - Raspberry pi Camera V2
 - Headphones
 - Microphone
+- USB Sound Card Adapter
 - SD Card Memory 64GB SAMSUNG EVO Plus
 - Raspberry pi Camera Cable (1m)
 - Power Supply (5V-3A)
+
+## Technologies Used
+- Python Programming Language
+- yolov4 Framework
+- Tensorflow Framework
+- TensorflowLite Framework
 
 ## Contributors
 [Salma Hamdy](https://github.com/salma39), [Salma Hamed](https://github.com/Salma-Hamed), [Omar Nasser](https://github.com/omarelshamy12), [Omar Hassan](https://github.com/omarrhassan1).
