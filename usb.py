@@ -110,7 +110,7 @@ def usb_search(flag_arabic=0):
             #taking search keyword from user
             say_arabic("اهلا بك في قسم قراءة الفلاشة")
             say_arabic("قل كلمة البحث التي تريدها بالعربي")
-            text=voice_command_english()
+            text=voice_command_arabic()
             #checks if file is image
             for image in images:
                 if text in image.lower():
@@ -118,7 +118,7 @@ def usb_search(flag_arabic=0):
                     #read image by  ocr
                     txt=get_string(1,image,flag_arabic=1)
                     #tts the text
-                    say(txt)
+                    say_arabic(txt)
                     flag_end=1
                     continue
             #checks if file is pdf
@@ -136,7 +136,7 @@ def usb_search(flag_arabic=0):
                     f=open(txt,'r')
                     flag_end=1
                     #read text file by tts
-                    say(f.read())
+                    say_arabic(f.read())
                     continue
             #checks if file is word document
             for doc in doc_files:
@@ -146,7 +146,7 @@ def usb_search(flag_arabic=0):
                     txt=txt.split()
                     txt=' '.join(txt)
                     #read word file by tts
-                    say(txt)
+                    say_arabic(txt)
                     flag_end=1
                     continue
             #checks if file is music
