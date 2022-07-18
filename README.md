@@ -12,7 +12,7 @@
 - Presentation 
 
 ## Introduction
-Light My Way is an aasistant glasses designed for people with sight disabilities and illiterates. It helps them to overcome many of the daily challenges they face, and facilitates their adaptation to the surrounding environment.
+Light My Way is an assistant glasses designed for people with sight disabilities and illiterates. It helps them to overcome many of the daily challenges they face, and facilitates their adaptation to the surrounding environment.
 
   Main Features:
   - English OCR
