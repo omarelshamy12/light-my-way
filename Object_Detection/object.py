@@ -1,7 +1,7 @@
 import cv2
 from picamera.array import PiRGBArray
 from picamera import PiCamera
-#thres = 0.45 # Threshold to detect object
+thres = 0.45 # Threshold to detect object
 
 
 def getObjects(img, thres, nms, draw=True, objects=[],flag_arabic=0):
